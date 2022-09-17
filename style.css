@@ -1,0 +1,20 @@
+.profile {
+    background-color:white;
+    width: 200px;
+    margin: 0 3rem;
+    box-shadow: 0 0 16px 5px olive;
+    border-radius: 1000px
+}
+
+.center, .bio {
+    text-align: center;
+
+}
+
+.bio {
+    margin: 2rem;
+    width: 100px;
+}
+.language, .star {
+    padding:0px 1rem .5rem 0px;
+}
